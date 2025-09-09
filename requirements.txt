@@ -18,3 +18,10 @@ loguru
 e2b_code_interpreter
 jinja2
 pathlib
+langchain_openai
+pydantic-settings
+cohere
+uv
+langgraph
+langgraph-cli
+langgraph-api
