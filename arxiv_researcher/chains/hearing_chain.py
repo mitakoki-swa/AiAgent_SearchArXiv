@@ -8,6 +8,7 @@ from langchain_core.messages import BaseMessage
 from langchain_core.prompts import ChatPromptTemplate
 
 from arxiv_researcher.chains.utils import load_prompt
+from arxiv_researcher.chains.utils import format_history
 
 # 内部ステート
 class Hearing(BaseModel):
@@ -27,9 +28,9 @@ class HearingChain:
         self.current_date = datetime.now().strftime("%Y-%m-%d")
 
 
-    def __call__(self, state: dict) -> Command[Literal["human_feedback", "generate_report"]]:
+    def __call__(self, state: dict) -> Command[Literal["human_feedback", "goal_setting"]]:
         '''テスト用
-        goal_setting → generate_report に変更して動かしている
+        goal_setting → goal_setting に変更して動かしている
         '''
         messages = state.get("messages", [])
         # hearing → llm_responseに変更
@@ -39,7 +40,7 @@ class HearingChain:
         if llm_response.is_need_human_feedback:
             message = [{"role": "assistant", "content": llm_response.additional_question}]
 
-        next_node = "human_feedback" if llm_response.is_need_human_feedback else "generate_report"
+        next_node = "human_feedback" if llm_response.is_need_human_feedback else "goal_setting"
 
         return Command(
             goto=next_node,
@@ -55,13 +56,9 @@ class HearingChain:
             )
             llm_response = chain.invoke({
                 "current_date": self.current_date,
-                "conversation_history": self._format_history(messages)
+                "conversation_history": format_history(messages)
             })
         except Exception as e:
             raise RuntimeError(f"LLMの呼び出し中にエラーが発生しました: {str(e)}")
 
         return llm_response
-
-    # list[BaseMessage]をstrに変換する関数
-    def _format_history(self, messages: list[BaseMessage]) -> str:
-        return "\n".join([f"{message.type}: {message.content}" for message in messages])
