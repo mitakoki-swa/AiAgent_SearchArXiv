@@ -5,10 +5,8 @@ from langgraph.types import Command
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 
-from arxiv_researcher.chains.utils import load_prompt
-
-"""仮づくり
-"""
+from arxiv_researcher.chains.utils import load_prompt, dict_to_xml_str
+from arxiv_researcher.models.reading import ReadingResult
 
 class Reporter:
     def __init__(self, llm: ChatOpenAI) -> None:
@@ -16,10 +14,15 @@ class Reporter:
         self.current_date = datetime.now().strftime("%Y-%m-%d")
 
     def __call__(self, state: dict) -> Command:
-        # results: list[ReadingResult] = state["reading_results"]
-        query: str = state.get("goal", "これはテストです。")
+        results: list[ReadingResult] = state["reading_results"]
+        query: str = state["goal"]
         final_output: str = self.run(
-            context="test",
+            context="\n".join(
+                [
+                    dict_to_xml_str(item.model_dump(), exclude_keys=["markdown_text"])
+                    for item in results
+                ]
+            ),
             query=query
         )
         return Command(update={"final_output": final_output})
