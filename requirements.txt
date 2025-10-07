@@ -25,3 +25,6 @@ uv
 langgraph
 langgraph-cli
 langgraph-api
+feedparser
+requests
+langchain_anthropic

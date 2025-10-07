@@ -1,3 +1,4 @@
+import logging
 from datetime import datetime
 from typing import Literal
 
@@ -30,6 +31,13 @@ class TaskEvaluator:
     def __call__(self, state: dict) -> Command[Literal["decompose_query", "generate_report"]]:
         current_retry_count = state.get("retry_count", 0)
 
+        # デバッグ用ログ
+        logger = logging.getLogger(__name__)
+        if state["reading_results"]:
+            logger.info("======== reading_results有 TaskEvaluation ========")
+        else:
+            logger.info("======== reading_results無し TaskEvaluation ========")
+
         evaluation: TaskEvaluation = self.run(
             context="\n".join(
                 [
@@ -42,10 +50,6 @@ class TaskEvaluator:
 
         if evaluation.need_more_infomation:
             current_retry_count += 1
-
-        # テスト用
-        if current_retry_count >= 3:
-            evaluation.need_more_infomation = False
 
         next_node = (
             "decompose_query" if evaluation.need_more_infomation else "generate_report"

@@ -1,7 +1,8 @@
 {
     "dependencies": ["-r", "requirements.txt"],
     "graphs": {
-        "research_agent": "arxiv_researcher.agent.research_agent:graph"
+        "research_agent": "arxiv_researcher.agent.research_agent:graph",
+        "paper_search_agent": "arxiv_researcher.agent.paper_search_agent:graph"
     },
     "env": ".env"
 }
