@@ -1,6 +1,6 @@
 import re
 import logging
-from typing import List
+from typing_extensions import List
 
 from arxiv_researcher.models.markdown import Section
 

@@ -1,6 +1,6 @@
 import datetime
 import urllib.parse
-from typing import Optional
+from typing_extensions import Optional
 
 import cohere
 import feedparser

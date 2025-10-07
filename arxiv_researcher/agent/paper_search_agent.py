@@ -1,6 +1,6 @@
 import operator
 import logging
-from typing import Annotated, TypedDict
+from typing_extensions import Annotated, TypedDict
 
 from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph

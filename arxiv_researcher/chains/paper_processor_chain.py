@@ -1,6 +1,6 @@
 import concurrent.futures
 import logging
-from typing import Literal, TypedDict
+from typing_extensions import Literal, TypedDict
 
 from langgraph.types import Command, Send
 

@@ -1,6 +1,6 @@
 import logging
 from datetime import datetime
-from typing import Literal
+from typing_extensions import Literal
 
 from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI

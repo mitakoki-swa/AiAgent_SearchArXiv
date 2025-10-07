@@ -1,4 +1,4 @@
-from typing import Annotated, Literal, TypedDict
+from typing_extensions import Annotated, Literal, TypedDict
 
 from langchain_anthropic import ChatAnthropic
 from langchain_openai import ChatOpenAI
@@ -34,7 +34,7 @@ class ResearchAgent:
         self.decompose_query = QueryDecomposer(llm)
         self.paper_search_agent = PaperSearchAgent(fast_llm, searcher=ArxivSearcher(fast_llm))
         self.evaluate_task = TaskEvaluator(llm)
-        self.generate_report = Reporter(fast_llm)
+        self.generate_report = Reporter(reporter_llm)
         self.graph = self._create_graph()
 
     def _create_graph(self) -> CompiledStateGraph:

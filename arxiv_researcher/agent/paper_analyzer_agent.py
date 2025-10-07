@@ -1,5 +1,5 @@
 import logging
-from typing import TypedDict
+from typing_extensions import TypedDict
 
 from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph
