@@ -1,5 +1,6 @@
-from typing import Annotated, Literal, TypedDict
+from typing_extensions import Annotated, Literal, TypedDict
 
+from langchain_anthropic import ChatAnthropic
 from langchain_openai import ChatOpenAI
 from langgraph.graph.state import CompiledStateGraph
 from langgraph.graph import StateGraph
@@ -14,20 +15,26 @@ from arxiv_researcher.chains.query_decomposer_chain import QueryDecomposer
 from arxiv_researcher.chains.task_evaluator_chain import TaskEvaluator
 from arxiv_researcher.chains.reporter_chain import Reporter
 from arxiv_researcher.models.reading import ReadingResult
+from arxiv_researcher.agent.paper_search_agent import PaperSearchAgent
+from arxiv_researcher.searcher.arxiv_searcher import ArxivSearcher
+from arxiv_researcher.settings import settings
 
 
 class ResearchAgent:
     def __init__(
             self,
-            llm: ChatOpenAI = ChatOpenAI(model="gpt-4o-mini", temperature=0.0),
+            llm: ChatOpenAI = settings.llm,
+            fast_llm: ChatOpenAI = settings.fast_llm,
+            reporter_llm: ChatAnthropic = settings.reporter_llm
     ) -> None:
-        # self.recursion_limit = 1000
-        # self.max_evaluation_retry_count = 3
+        self.recursion_limit = settings.langgraph.max_recursion_limit
+        self.max_evaluation_retry_count = settings.arxiv_researcher.max_evaluation_retry_count
         self.user_hearing = HearingChain(llm)
         self.goal_setting = GoalOptimizer(llm)
         self.decompose_query = QueryDecomposer(llm)
+        self.paper_search_agent = PaperSearchAgent(fast_llm, searcher=ArxivSearcher(fast_llm))
         self.evaluate_task = TaskEvaluator(llm)
-        self.generate_report = Reporter(llm)
+        self.generate_report = Reporter(reporter_llm)
         self.graph = self._create_graph()
 
     def _create_graph(self) -> CompiledStateGraph:
@@ -62,11 +69,13 @@ class ResearchAgent:
         )
 
     def _paper_search_agent(self, state: SearchAgentState) -> Command[Literal["evaluate_task"]]:
-        test: ReadingResult = ReadingResult()
-        tests: list[ReadingResult] = [test, test]
+        output = self.paper_search_agent.graph.invoke(
+            input=state,
+            config={"recursion_limit": settings.langgraph.max_recursion_limit}
+        )
         return Command(
             goto="evaluate_task",
-            update={"reading_results": tests}
+            update={"reading_results": output.get("reading_results", [])}
         )
 
 

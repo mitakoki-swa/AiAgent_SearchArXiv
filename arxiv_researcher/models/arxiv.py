@@ -1,5 +1,5 @@
 import datetime
-from typing import Optional
+from typing_extensions import Optional
 
 from pydantic import BaseModel, Field
 
@@ -17,4 +17,4 @@ class ArxivPaper(BaseModel):
     version: int = Field(default=0, description="バージョン")
     authors: list[str] = Field(default=[], description="著者")
     categories: list[str] = Field(default=[], description="カテゴリ")
-    relevance_score: Optional[bool] = Field(default=None, description="関連度スコア")
+    relevance_score: Optional[float] = Field(default=None, description="関連度スコア")

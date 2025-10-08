@@ -1,5 +1,5 @@
 from datetime import datetime
-from typing import Literal
+from typing_extensions import Literal
 
 from langchain_openai import ChatOpenAI
 from langgraph.types import Command
