@@ -10,7 +10,7 @@ AI研究者やデータサイエンティストが、最新論文の動向を効
 - **paper_search_agent**: 論文検索エージェント。タスクに基づいた論文の検索、Cohereによる関連度スコア付け、Jina Reader APIによるMarkdown形式への変換、サブエージェント呼び出し、結果とりまとめを担当。
 - **paper_analyzer_agent**: 論文分析エージェント。論文の十分性評価、使用可否判断、タスクに対する回答生成を担当。
 
-# Archtecture
+# Architecture
 ![LangGraph Flow](./storage/png/image.png)
 
 # Setup
