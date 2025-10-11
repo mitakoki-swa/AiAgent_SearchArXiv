@@ -9,7 +9,7 @@ CURRENT_DATE: {current_date}
 </goal_setting>
 
 <task>
-goal_settingタグに記述された内容を実現するため、contextタグの内容を収集しました。収集した情報を基に、goal_settingタグに記述された内容が達成可能かどうかを評価してください。
+goal_settingタグに記述された内容を実現するため、contextタグの内容を収集しました。収集した情報を基に、goal_settingタグに記述された内容が達成可能かどうかを評価してください。達成不可能な場合は追加でどのような情報があれば達成可能か判断基準とともに内容を明確にしてください。
 </task>
 
 <rules>

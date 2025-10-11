@@ -20,7 +20,7 @@ class TaskEvaluation(BaseModel):
     )
     content: str = Field(
         default="",
-        description="追加の調査として必要な内容を詳細に日本語で記述"
+        description="追加の調査として必要な内容を判断基準を明確にした上で詳細に日本語で記述"
     )
 
 class TaskEvaluator:

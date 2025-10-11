@@ -2689,3 +2689,132 @@
 2025-10-11 11:24:18,107 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22future%20directions%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
 2025-10-11 11:24:18,153 - arxiv_researcher.logger - INFO - Found 10 papers.
 2025-10-11 11:24:18,154 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:15:51,796 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:15:52,208 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:15:52,210 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:15:55,105 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:15:55,157 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:15:55,160 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:15:57,829 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:15:57,875 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:15:57,875 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:16:00,949 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%28machine%20learning%20OR%20%22natural%20language%20processing%22%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:01,297 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:01,297 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:16:03,899 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%28machine%20learning%20OR%20%22natural%20language%20processing%22%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:03,937 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:03,937 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:16:05,831 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:06,507 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:16:06,509 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:16:09,516 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:09,552 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:09,559 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:16:11,532 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:11,569 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:11,569 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:16:13,904 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:13,936 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:13,936 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:16:15,723 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20process%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:16,079 - arxiv_researcher.logger - INFO - Found 3 papers.
+2025-10-11 21:16:16,080 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:16:18,157 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:18,525 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:16:18,526 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:16:53,382 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 21:16:53,718 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:53,718 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:16:55,642 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20business&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 21:16:56,025 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:16:56,025 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:16:58,167 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%28machine%20learning%20OR%20%22natural%20language%20processing%22%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:16:58,203 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:16:58,204 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:17:00,115 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%28machine%20learning%20OR%20%22natural%20language%20processing%22%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:00,156 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:17:00,156 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:17:02,464 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%28machine%20learning%20OR%20%22natural%20language%20processing%22%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:02,503 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:17:02,503 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:17:04,532 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:04,573 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:17:04,573 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:17:06,592 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:06,638 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:17:06,638 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:17:08,620 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:08,662 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:17:08,663 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:17:10,567 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22effectiveness%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:11,293 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:17:11,294 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:17:13,191 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:13,506 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:17:13,509 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:17:15,363 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:17:15,408 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:17:15,411 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:27:33,918 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%20in%20business%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 21:27:34,314 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:27:34,317 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:27:40,833 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 21:27:41,495 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:27:41,496 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:27:48,955 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:27:49,038 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:27:49,040 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:27:50,926 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20230101+TO+20251011
+2025-10-11 21:27:51,259 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:27:51,260 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:27:57,408 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20230101+TO+20251011
+2025-10-11 21:27:57,443 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:27:57,443 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:28:03,803 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20230101+TO+20251011
+2025-10-11 21:28:03,837 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:03,837 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:28:06,223 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:28:06,301 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:06,302 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:28:12,703 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 21:28:12,744 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:12,744 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:28:18,556 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:28:18,594 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:18,594 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:28:20,202 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20Benchmark&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:28:20,588 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:28:20,596 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:28:22,688 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:28:23,070 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:28:23,070 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:28:51,599 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%20in%20business%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:28:51,978 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:51,978 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:28:54,238 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20business&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:28:54,632 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:28:54,632 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:28:56,967 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%20in%20business%22%20AND%20%22marketing%22&sortBy=relevance&max_results=10&submittedDate=20230101+TO+20251011
+2025-10-11 21:28:57,305 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:57,305 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:28:59,231 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20230101+TO+20251011
+2025-10-11 21:28:59,274 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:28:59,275 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:29:01,553 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20230101+TO+20251011
+2025-10-11 21:29:01,596 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:29:01,597 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:29:03,535 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:29:03,570 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:29:03,571 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 21:29:05,486 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:29:05,530 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:29:05,530 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 21:29:07,808 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22business%20marketing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:29:07,852 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 21:29:07,853 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 21:29:09,617 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:29:09,664 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:29:09,664 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 21:29:13,314 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22benchmark%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 21:29:13,709 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 21:29:13,709 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
