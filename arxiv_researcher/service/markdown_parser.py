@@ -116,7 +116,7 @@ class MarkdownParser:
         for section_index in section_indices:
             if 1 <= section_index <= len(sections):
                 section = sections[section_index - 1]
-                content_limited = section.content[:10000]
+                content_limited = section.content[:8000]
                 logger.info(f"===content: {len(section.content)}===")
                 logger.info(f"===content_limited: {len(content_limited)}===")
                 header_and_content = f"<section>\n<header>{section.header}</header>\n<content>{content_limited}</content>\n</section>"

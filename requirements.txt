@@ -10,7 +10,7 @@ langchain_experimental
 ipykernel
 google-generativeai
 dotenv
-psycopg2
+psycopg2-binary
 langgraph
 elasticsearch
 qdrant_client
@@ -28,3 +28,5 @@ langgraph-api
 feedparser
 requests
 langchain_anthropic
+fastapi
+cloudflared

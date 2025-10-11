@@ -1,2 +1,6 @@
 .venv
 .env
+
+logs/application.log
+
+notebook/test.ipynb

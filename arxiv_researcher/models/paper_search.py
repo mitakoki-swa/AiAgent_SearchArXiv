@@ -8,10 +8,6 @@ from arxiv_researcher.chains.task_evaluator_chain import TaskEvaluation
 
 from arxiv_researcher.models.reading import ReadingResult
 
-"""
-下記は本番環境にてresearch_agent.py内に定義されていた。
-それをmodelsに移している。
-"""
 
 class SearchAgentInputState(TypedDict):
     messages: Annotated[list[BaseMessage], add_messages]
