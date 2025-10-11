@@ -4,5 +4,15 @@
         "research_agent": "arxiv_researcher.agent.research_agent:graph",
         "paper_search_agent": "arxiv_researcher.agent.paper_search_agent:graph"
     },
-    "env": ".env"
+    "env": ".env",
+    "server": {
+        "cors": {
+            "allow_origins": [
+                "http://www.sandbox-mita.com",
+                "https://smith.langchain.com"
+                ],
+        "allow_methods": ["*"],
+        "allow_headers": ["*"]
+    }
+}
 }

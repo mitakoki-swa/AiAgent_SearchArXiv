@@ -2005,3 +2005,687 @@
 2025-10-07 22:05:19,486 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22challenges%22&sortBy=relevance&max_results=10&submittedDate=20231007+TO+20251007
 2025-10-07 22:05:19,873 - arxiv_researcher.logger - INFO - Found 10 papers.
 2025-10-07 22:05:19,873 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:52:03,339 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:03,704 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:03,704 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:52:05,420 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:05,455 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:05,455 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:52:08,900 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-10 13:52:09,212 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:09,224 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:52:11,521 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:52:11,902 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:52:11,902 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:52:15,212 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20architecture&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:15,538 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:15,538 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:52:17,452 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20architecture&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:17,487 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:17,487 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:52:19,663 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:19,973 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:19,974 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:52:22,029 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:22,425 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:52:22,426 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:52:24,546 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:24,608 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:52:24,608 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:52:50,740 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:52:51,114 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:51,117 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:52:53,276 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:53,318 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:53,318 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:52:55,413 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:52:55,461 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:52:55,462 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:52:57,458 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22machine%20learning%22%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:52:57,823 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:52:57,824 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:53:00,613 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20architecture&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:53:00,657 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:53:00,657 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:53:02,566 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AarXiv%E6%A4%9C%E7%B4%A2%E3%82%AF%E3%82%A8%E3%83%AA%3A%0A%22AI%20agents%22%20AND%20architecture&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:53:02,916 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:53:02,916 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:53:04,646 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:53:04,693 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:53:04,694 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:53:06,514 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:53:06,561 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:53:06,562 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:53:09,267 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22technical%20challenges%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:53:09,637 - arxiv_researcher.logger - INFO - Found 5 papers.
+2025-10-10 13:53:09,637 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:53:55,166 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:53:55,218 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:53:55,218 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:53:57,145 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20algorithms&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:53:57,503 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:53:57,503 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:53:59,434 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:53:59,783 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:53:59,783 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:54:01,905 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:54:01,942 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:54:01,943 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:54:03,810 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:54:03,843 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:54:03,844 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:54:05,487 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:54:06,167 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:54:06,169 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:54:08,942 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:54:08,987 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:54:08,988 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:55:05,057 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:05,110 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:55:05,111 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:55:07,023 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:07,057 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:55:07,058 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:55:09,222 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:09,248 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:55:09,255 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:55:11,123 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22machine%20learning%22%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251010
+2025-10-10 13:55:11,161 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:55:11,161 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:55:13,283 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:13,602 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:55:13,603 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-10 13:55:15,355 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:15,398 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:55:15,400 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-10 13:55:17,844 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%20architecture%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:17,884 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-10 13:55:17,885 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-10 13:55:20,175 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:20,233 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:55:20,234 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-10 13:55:22,508 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22challenges%22&sortBy=relevance&max_results=10&submittedDate=20231010+TO+20251010
+2025-10-10 13:55:22,875 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-10 13:55:22,875 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:00:50,735 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:00:51,231 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:00:51,231 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:00:53,513 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:00:53,550 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:00:53,551 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:00:56,674 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:00:56,720 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:00:56,723 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:00:58,898 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:00:59,248 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:00:59,248 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:01:01,970 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22transformer%22%20AND%20%22BERT%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:01:02,407 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:01:02,413 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:01:05,905 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20application&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:01:06,312 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:01:06,312 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:01:08,687 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3ABenchmark%20AND%20%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:01:09,081 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:01:09,081 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:01:12,170 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22future%20challenges%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:01:14,254 - arxiv_researcher.logger - INFO - Found 9 papers.
+2025-10-11 09:01:14,254 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:02:41,071 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%28chatbot%20OR%20translation%20OR%20%22sentiment%20analysis%22%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:02:41,532 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:02:41,532 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:02:44,778 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Abenchmark%20AND%20%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:02:45,172 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:02:45,176 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:02:47,549 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Aabs%3A%22natural%20language%20processing%22%20AND%20%28bias%20OR%20privacy%20OR%20transparency%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:02:47,908 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:02:47,908 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:02:51,150 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:02:51,533 - arxiv_researcher.logger - INFO - Found 3 papers.
+2025-10-11 09:02:51,533 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:03:37,871 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:37,941 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:03:37,942 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:03:40,364 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:40,417 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:03:40,418 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:03:42,524 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22transformer%20models%22%20AND%20BERT&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:42,989 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:03:42,991 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:03:45,254 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Abenchmark%20AND%20%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:45,310 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:03:45,311 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:03:48,544 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20%22ethical%20issues%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:48,946 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:03:48,946 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:03:51,398 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:51,441 - arxiv_researcher.logger - INFO - Found 3 papers.
+2025-10-11 09:03:51,443 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:03:53,729 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%28translation%20OR%20sentiment%20analysis%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:03:54,460 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:03:54,461 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:04:44,773 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:04:45,191 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:04:45,194 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:04:47,089 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:04:47,160 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:04:47,161 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:04:49,199 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:04:49,262 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:04:49,262 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:04:52,071 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20model%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:04:52,299 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:04:52,299 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:04:54,341 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22transformer%22%20AND%20%22BERT%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:04:54,903 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:04:54,903 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:04:57,483 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20Benchmark&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:04:57,951 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:04:57,951 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:05:00,919 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20%22technological%20advancements%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:05:01,301 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:05:01,304 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:05:03,367 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22technological%20advancements%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:05:03,899 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:05:03,901 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:05:06,136 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:05:06,363 - arxiv_researcher.logger - INFO - Found 3 papers.
+2025-10-11 09:05:06,373 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:05:55,181 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:05:55,243 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:05:55,243 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:05:57,107 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:05:57,148 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:05:57,149 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:05:59,146 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:05:59,182 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:05:59,182 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:06:01,341 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20%28transformer%20OR%20BERT%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:06:01,705 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:06:01,705 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:06:03,878 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22algorithms%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:06:04,287 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:06:04,287 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:06:06,620 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20application&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:06:06,681 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:06:06,681 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:06:08,886 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Abenchmark%20AND%20%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:06:08,925 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:06:08,925 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:06:11,094 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22future%20challenges%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:06:11,156 - arxiv_researcher.logger - INFO - Found 9 papers.
+2025-10-11 09:06:11,156 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:06:56,680 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%28algorithm%20OR%20architecture%29&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:06:57,091 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:06:57,095 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:06:59,309 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22applications%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:06:59,730 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:06:59,730 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:07:02,035 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22new%20models%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:07:02,293 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20models%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:02,633 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:02,634 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:02,721 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:02,721 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:04,576 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20models%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:04,620 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:04,621 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:07:04,735 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22new%20models%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:07:05,110 - arxiv_researcher.logger - INFO - Found 5 papers.
+2025-10-11 09:07:05,110 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:07:06,757 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22transformer%20models%22%20AND%20ti%3ABERT&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:06,799 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:06,800 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:07:07,335 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22comparison%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:07:07,652 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:07,652 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:08,870 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Benchmark&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:09,226 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:09,226 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:09,946 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22comparison%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:07:09,991 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:09,997 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:07:11,075 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20Benchmark&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:11,293 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:07:11,294 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:07:11,745 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22comparison%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:07:11,786 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:11,788 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:07:13,685 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20%22future%20research%20challenges%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:07:14,011 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22future%20directions%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:07:14,017 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:14,037 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:14,410 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:07:14,410 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:07:16,394 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22future%20challenges%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 09:07:16,789 - arxiv_researcher.logger - INFO - Found 9 papers.
+2025-10-11 09:07:16,789 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:07:18,870 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:07:19,214 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:19,214 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:21,373 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20ethics&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:07:21,415 - arxiv_researcher.logger - INFO - Found 3 papers.
+2025-10-11 09:07:21,415 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:07:24,143 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:24,196 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:24,199 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:26,240 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:26,608 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:26,609 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:07:28,678 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:28,713 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:28,713 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:07:51,171 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:51,289 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:51,292 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:07:53,291 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:53,374 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:53,380 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:07:55,494 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:07:55,617 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:55,623 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:07:57,882 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22natural%20language%20processing%22%20AND%20%28algorithm%20OR%20model%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:07:58,614 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:07:58,615 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:08:00,571 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22algorithms%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:08:00,655 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:00,657 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:02,858 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20application&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:08:02,928 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:02,928 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:05,103 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Abenchmark%20AND%20%22natural%20language%20processing%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:08:05,152 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:05,152 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:07,022 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22natural%20language%20processing%22%20AND%20%22future%20challenges%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:08:07,092 - arxiv_researcher.logger - INFO - Found 9 papers.
+2025-10-11 09:08:07,096 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:23,769 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22algorithms%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:24,196 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:24,196 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:26,611 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%28au%3A2025%29&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:26,964 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:26,964 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:08:29,402 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AarXiv%E6%A4%9C%E7%B4%A2%E3%82%AF%E3%82%A8%E3%83%AA%3A%0A%22AI%20agents%22%20AND%202025/09..2025/10&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:29,793 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:29,796 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:08:31,520 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%222025%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:31,904 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:31,911 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:34,810 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22theoretical%20models%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:35,201 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:35,201 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:08:37,227 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22theoretical%20models%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:37,284 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:37,285 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:08:39,157 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22theoretical%20models%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:39,208 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:39,208 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:08:41,170 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22experimental%20results%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:41,502 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:41,503 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:08:43,536 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22experimental%20results%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:44,008 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:44,008 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:08:48,211 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20%22comparison%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:48,256 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:08:48,256 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:08:50,279 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20comparison&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 09:08:50,724 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:08:50,729 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:16:24,356 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:16:24,725 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:24,725 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:16:27,097 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:16:27,142 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:27,144 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:16:29,145 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:16:29,190 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:29,190 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:16:31,309 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251011
+2025-10-11 09:16:31,963 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:31,963 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:16:33,670 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251011
+2025-10-11 09:16:33,711 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:33,711 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:16:36,255 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:36,599 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:36,600 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:16:39,194 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:39,538 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:39,538 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:16:41,845 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:41,895 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:41,895 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:16:43,667 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:43,714 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:43,714 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:16:45,412 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:45,738 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:45,738 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:16:47,424 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:47,470 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:47,471 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:16:49,078 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:16:49,122 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:49,122 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:16:50,828 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:16:51,200 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:51,203 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:16:52,921 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 09:16:53,294 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:53,294 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:16:54,842 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:16:54,928 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:16:54,929 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:03,344 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:03,390 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:03,391 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:05,277 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:05,629 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:05,629 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:07,900 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:07,943 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:07,943 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:10,149 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20biological%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:10,516 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:10,517 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:12,379 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:12,716 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:12,716 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:14,555 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:14,597 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:14,597 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:16,655 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 09:17:17,011 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:17,011 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:18,692 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 09:17:19,057 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:19,058 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:20,903 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:20,946 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:20,946 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:28,440 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:17:28,804 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:28,804 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:30,637 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:17:30,678 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:30,678 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:32,773 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:17:33,106 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:33,106 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:35,258 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:35,300 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:35,301 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:37,772 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:37,812 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:37,813 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:39,576 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:39,623 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:39,623 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:41,727 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:41,775 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:41,777 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:43,696 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:43,745 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:43,745 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:46,288 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:17:46,321 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:46,321 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:17:54,020 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:17:54,061 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:54,061 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:17:56,127 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:17:56,175 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:56,175 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:17:58,271 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 09:17:58,317 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:17:58,318 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:18:00,933 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:00,970 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:00,970 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:18:03,124 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:03,160 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:03,161 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:18:05,358 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%20sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:05,725 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:05,725 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:18:08,372 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:08,427 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:08,429 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:18:10,367 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:10,420 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:10,420 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:18:12,311 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondrial%20function%22%20AND%20%22sleep%20pressure%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:12,371 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:12,371 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:18:14,300 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:14,988 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:14,988 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:18:16,797 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:16,837 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:16,839 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:18:18,799 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22mitochondria%22%20AND%20%22biological%20function%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:18:18,871 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:18:18,873 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:19:49,202 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:19:49,552 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:19:49,553 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:19:51,384 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%22%20AND%20%22definition%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:19:51,713 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:19:51,724 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:19:53,648 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agent%22%20AND%20%22definition%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:19:53,684 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:19:53,684 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:19:55,340 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:19:55,728 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:19:55,728 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:19:58,412 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:19:58,798 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:19:58,798 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:20:01,132 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3ASurvey%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:20:01,478 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:01,478 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:20:03,485 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:20:03,855 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:03,855 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:20:05,494 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:20:05,537 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:05,537 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:20:08,395 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:20:08,737 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:08,744 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:20:10,832 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:20:10,878 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:10,879 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:20:12,944 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 09:20:12,983 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:12,983 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:20:32,821 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22machine%20learning%22&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:20:32,924 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:20:32,925 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:20:34,642 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22applications%22&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:20:35,057 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:20:35,058 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 09:20:37,032 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3ASurvey%20AND%20%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:20:37,390 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:37,392 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 09:20:39,700 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:20:40,111 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:40,112 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 09:20:41,494 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22%20AND%20Survey&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:20:41,553 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 09:20:41,554 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 09:20:43,182 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20Benchmark&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 09:20:43,583 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 09:20:43,583 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:51:19,112 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 10:51:19,713 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:51:19,714 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:51:21,804 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%202024&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 10:51:22,253 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:51:22,254 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:51:25,242 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22technical%20advancements%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 10:51:25,952 - arxiv_researcher.logger - INFO - Found 1 papers.
+2025-10-11 10:51:25,953 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:51:28,151 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 10:51:28,559 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:51:28,560 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:51:30,695 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20challenges&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 10:51:31,110 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:51:31,111 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:56:04,910 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 10:56:05,037 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:56:05,040 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:56:06,930 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%202024&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 10:56:07,009 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:56:07,010 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:56:08,902 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22recent%20advances%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 10:56:09,353 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:56:09,354 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:56:11,408 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 10:56:11,515 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:56:11,518 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 10:56:13,724 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20trends&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 10:56:14,169 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 10:56:14,171 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:11:57,140 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:11:57,360 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:11:57,363 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:11:59,973 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%202024&sortBy=relevance&max_results=10&submittedDate=20240101+TO+LATEST
+2025-10-11 11:12:00,186 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:12:00,187 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:12:02,644 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22recent%20advances%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:12:02,867 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:12:02,868 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:12:05,074 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:12:05,296 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:12:05,298 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:12:07,740 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20trends&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:12:07,971 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:12:07,971 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:19:52,334 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:19:52,764 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:19:52,765 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:19:54,743 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%202025/09..2025/10&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:19:55,085 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:19:55,085 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:19:57,164 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%202025/09..2025/10&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:19:57,200 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:19:57,201 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:19:59,135 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:19:59,520 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:19:59,520 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:20:01,600 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22recent%20advances%22&sortBy=relevance&max_results=10&submittedDate=20250911+TO+20251011
+2025-10-11 11:20:01,999 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:20:02,000 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:20:03,980 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:20:04,023 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:20:04,024 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:20:06,882 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:20:07,257 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:07,258 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:20:09,018 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20251001+TO+20251031
+2025-10-11 11:20:09,405 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:20:09,406 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:20:34,690 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:20:34,735 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:34,736 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:20:36,496 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%202025/09..2025/10&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:20:36,529 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:36,531 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:20:38,656 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%202025/09..2025/10&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:20:38,696 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:38,697 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:20:40,470 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%20%28research%20OR%20trends%29&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:20:40,845 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:40,846 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:20:42,579 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:20:42,923 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:42,924 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:20:45,226 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:20:45,264 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:45,265 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:20:47,063 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:20:47,108 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:20:47,109 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:20:48,937 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:20:48,980 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:48,980 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:20:51,048 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:20:51,087 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:51,088 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:20:53,146 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:20:53,709 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:20:53,710 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:21:06,844 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%20%282025/09..2025/10%29&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:07,211 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:07,212 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:21:08,927 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:09,161 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:09,161 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:21:11,298 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%202025/09..2025/10&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:11,528 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:11,529 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:21:13,252 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:13,315 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:13,316 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:21:15,203 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:15,267 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:15,268 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:21:17,149 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:17,216 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:17,217 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:21:19,194 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22recent%20findings%22&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:19,593 - arxiv_researcher.logger - INFO - Found 2 papers.
+2025-10-11 11:21:19,593 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:21:21,588 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:21,652 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:21,653 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:21:23,659 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%20%28application%20OR%20applications%29&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:24,022 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:24,023 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:21:27,784 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%20AND%20%28%E5%BF%9C%E7%94%A8%20OR%20%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%29&sortBy=relevance&max_results=10&submittedDate=20250901+TO+20251031
+2025-10-11 11:21:28,161 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:28,162 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:21:31,357 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:21:31,433 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:31,434 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:21:33,297 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:21:33,677 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:33,679 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 2/3
+2025-10-11 11:21:35,511 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3AAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:21:35,599 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:21:35,600 - arxiv_researcher.logger - INFO - Max retries reached. No results found.
+2025-10-11 11:21:53,615 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:21:53,671 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:21:53,672 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:21:55,985 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22recent%20advances%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:21:56,365 - arxiv_researcher.logger - INFO - Found 5 papers.
+2025-10-11 11:21:56,366 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:21:58,528 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:21:58,591 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:21:58,592 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:22:00,414 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3Ati%3ASurvey%20AND%20Benchmark&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:22:00,770 - arxiv_researcher.logger - INFO - Found 0 papers.
+2025-10-11 11:22:00,772 - arxiv_researcher.logger - INFO - No papers found. Retrying with adjusted query. Attempt 1/3
+2025-10-11 11:22:02,559 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%28Survey%20OR%20Benchmark%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:22:02,947 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:22:02,947 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:22:04,638 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22future%20directions%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 11:22:05,057 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:22:05,058 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:24:09,532 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22&sortBy=relevance&max_results=10&submittedDate=20250101+TO+20251011
+2025-10-11 11:24:09,621 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:24:09,622 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:24:11,753 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22recent%20advances%22&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:24:11,806 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:24:11,807 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:24:13,979 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20applications&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:24:14,020 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:24:14,021 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:24:16,215 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%28Survey%20OR%20Benchmark%29&sortBy=relevance&max_results=10&submittedDate=20231011+TO+20251011
+2025-10-11 11:24:16,258 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:24:16,259 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
+2025-10-11 11:24:18,107 - arxiv_researcher.logger - INFO - Searching for papers: https://export.arxiv.org/api/query?search_query=all%3A%22AI%20agents%22%20AND%20%22future%20directions%22&sortBy=relevance&max_results=10&submittedDate=20251011+TO+LATEST
+2025-10-11 11:24:18,153 - arxiv_researcher.logger - INFO - Found 10 papers.
+2025-10-11 11:24:18,154 - arxiv_researcher.logger - INFO - Papers found. Exiting retry loop.
